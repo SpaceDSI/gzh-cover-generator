@@ -1,0 +1,31 @@
+{
+  "canvas": {
+    "width": 2350,
+    "height": 1000
+  },
+  "style": "auto",
+  "style_requested": "auto",
+  "date": "2026-09-29",
+  "style_name": "MONOCLE 文化极简",
+  "char_count": 20,
+  "char_range": "10-20",
+  "title_original": "AI时代最好的知识管理工具：Obsidian为什么会淘汰印象笔记",
+  "topic": "知识管理工具对比与长期使用心得",
+  "eyebrow": "AI时代最好的知识管理工具",
+  "hero_lines": [
+    "Obsidian彻底封神",
+    "印象笔记会被淘汰"
+  ],
+  "subtitle": "重度使用经验实战复盘",
+  "bottom_tags": [
+    "双链笔记",
+    "AI工作流",
+    "知识库",
+    "长期主义"
+  ],
+  "masthead_text": "智驭视界",
+  "right_motif": "auto",
+  "background_path": "./background.png",
+  "output_path": "./wechat_cover.png",
+  "seed": 202601
+}

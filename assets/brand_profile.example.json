@@ -1,0 +1,30 @@
+{
+  "brand_name": "智驭视界",
+  "visual_identity": {
+    "tone": "强观点、商业感、克制、有判断力",
+    "preferred_colors": [
+      "black",
+      "navy",
+      "deep crimson",
+      "ivory",
+      "parchment",
+      "purple",
+      "gold",
+      "white"
+    ],
+    "cover_ratio": "2.35:1",
+    "layout": "typographic only, headline-led, no portrait",
+    "headline_position": "left"
+  },
+  "copywriting_style": {
+    "voice": "直接、有判断力、说人话，不喊口号",
+    "patterns": [
+      "先把结论说清楚",
+      "我自己的做法是",
+      "这件事的代价是什么",
+      "为什么我说X不行",
+      "实测下来只有这一条路",
+      "讲透一个点就够"
+    ]
+  }
+}
